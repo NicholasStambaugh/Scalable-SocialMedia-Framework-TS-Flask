@@ -1,14 +1,18 @@
 # Scalable Web Platform Framework 1.0
 
-This is an open-source codebase for social media-esque UX developed to be extremely scalable, using TypeScript, React, and Flask. It serves as a collaborative platform for sharing and discussing books, movies, and music. The application includes user authentication, item sharing with comments and likes, real-time updates, and a responsive UI. It also implements robust error handling, validation, and an admin panel for moderation. The app is deployed on a server or cloud platform.
+This is an open-source codebase for social media-esque UX developed to be extremely scalable, using `TypeScript`, `React`, and `Flask`. 
+
+It serves as a collaborative platform for sharing and discussing books, movies, and music. The application includes user authentication, item sharing with comments and likes, real-time updates, and a responsive UI. 
+
+It also implements robust error handling, validation, and an admin panel for moderation. The app is deployed on a server or cloud platform.
 
 ## Tech Stack
 
-- Frontend: TypeScript, React, HTML, CSS
-- Backend: Python, Flask
-- Database: PostgreSQL or MySQL
-- Real-time Updates: WebSocket (e.g., Socket.IO)
-- Version Control: Git
+- Frontend: `TypeScript`, `React`, `HTML`, `CSS`
+- Backend: `Python`, `Flask`
+- Database: `PostgreSQL` or `MySQL`
+- Real-time Updates: `WebSocket` (e.g., `Socket.IO`)
+- Version Control: `Git`
 
 ## File Structure
 
